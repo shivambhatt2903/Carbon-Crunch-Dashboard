@@ -42,7 +42,8 @@ The dataset includes the following columns:
 By analyzing emissions data, this project provides valuable insights into corporate sustainability practices. The findings can help organizations take informed actions to reduce their carbon footprint and contribute to a greener future.
 
 ## DashBoard Image
-![Screenshot (2)](https://github.com/user-attachments/assets/90594f24-eaf6-48ce-bb99-2b2364c2ca8c)
+![Screenshot (2)](https://github.com/user-attachments/assets/21e20196-c762-4db6-9b37-0a3c16557f41)
+
 
 
 
